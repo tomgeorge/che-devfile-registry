@@ -8,3 +8,4 @@ che-dotnet-2.2          mcr.microsoft.com/dotnet/core/sdk:2.2-stretch
 che-nodejs10-alpine     node:10.16-alpine
 che-nodejs10-ubi        registry.access.redhat.com/ubi8/nodejs-10
 che-nodejs8-centos      registry.centos.org/che-stacks/centos-nodejs
+che-cpp7-centos         registry.centos.org/centos/devtoolset-7-toolchain-centos7
